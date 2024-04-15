@@ -2,7 +2,7 @@
 Hi everybody,\
 this is a simple `README.md` file that you can use to test what it means to work in a decentralized team.
 
-Feel free to change the lines you want... perhaps by testing what happens if you try to edit **the same line someone else changed meanwhile** 😊
+Feel free to change the lines you want... perhaps by testing what happens if you try to edit **the same line that someone else changed meanwhile** 😊
 
 ## Examples
 Here are a few examples of source code just to fill space, and to show what Markdown syntax is capable of:
