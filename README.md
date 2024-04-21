@@ -15,7 +15,6 @@ uppered_pets = list(map(str.upper, my_pets))
 print(uppered_pets)
 ```
 
-
 ### Something to do
 - [ ] Shop fruit and vegetables
 - [x] Love my cats 🐈 (you shouldn't miss it)
