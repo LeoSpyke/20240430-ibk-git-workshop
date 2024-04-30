@@ -10,7 +10,8 @@ Here are a few examples of source code just to fill space, and to show what Mark
 ### Python code
 ```python
 # lets uppercase my pets' names
-my_pets = ['marion', 'red', 'tabitha', 'william']
+# adding more pet's names
+my_pets = ['marion', 'red', 'tabitha', 'william', 'sputino', 'lenny']
 uppered_pets = list(map(str.upper, my_pets))
 print(uppered_pets)
 ```
@@ -34,4 +35,9 @@ __Table__
 | Header | Title |
 | Paragraph | Text |
 
+<<<<<<< HEAD
 Test yashvin --> go away
+
+
+>>>>>>> xq
+>>>>>>> b07027823f0b8c240822b3e1afdcaa2f5174dd50
