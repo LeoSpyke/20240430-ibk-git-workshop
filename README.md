@@ -14,6 +14,7 @@ my_pets = ['marion', 'red', 'tabitha', 'william']
 uppered_pets = list(map(str.upper, my_pets))
 print(uppered_pets)
 ```
+Oh well, here I am.
 
 ### Something to do
 - [ ] Shop fruit and vegetables
