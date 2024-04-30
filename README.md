@@ -8,7 +8,7 @@ Feel free to change the lines you want... perhaps by testing what happens if you
 Here are a few examples of source code just to fill space, and to show what Markdown syntax is capable of:
 
 ### Python code
-```python
+```MongoDB
 # lets uppercase my pets' names
 my_pets = ['marion', 'red', 'tabitha', 'william']
 uppered_pets = list(map(str.upper, my_pets))
@@ -17,14 +17,14 @@ print(uppered_pets)
 Oh well, here I am.
 
 ### Something to do
-- [ ] Shop fruit and vegetables
-- [x] Love my cats 🐈 (you shouldn't miss it)
-- [ ] Study 
+- [ ] Buy an airplane
+- [x] Love my cats 🐈 (purr purr)
+- [x] Sleep
 
 ### Math formulas
 **Bitcoin halving formula**
 ```math
-\sum_{i=0}^{32} 210,000 \times \frac{50}{2^i}
+2+2=4 but I am not sure
 ```
  
 ### Tables
