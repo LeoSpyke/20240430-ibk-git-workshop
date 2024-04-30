@@ -24,7 +24,7 @@ Oh well, here I am.
 ### Math formulas
 **Bitcoin halving formula**
 ```math
-\sum_{i=0}^{32} 210,000 \times \frac{50}{2^i}
+Ethereum/2
 ```
  
 ### Tables
@@ -34,4 +34,4 @@ __Table__
 | Header | Title |
 | Paragraph | Text |
 
-Test yashvin
+Test yashvin --> go away
